@@ -1,4 +1,4 @@
-package pl.a517435708.bot.scrapper;
+package pl.a517435708.bot.scraper;
 
 import java.util.ArrayList;
 

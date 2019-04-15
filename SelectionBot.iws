@@ -2,21 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60a8bfbd-5765-48e4-abb4-b46bfefc2bae" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/husarz/bot/PlemionaBot.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/PlemionaBot.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/husarz/bot/browser/BotBrowser.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/browser/BotBrowser.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/husarz/bot/scrapper/ScriptLauncher.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/ScriptLauncher.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/husarz/bot/scrapper/ScriptOutputAnalyzer.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/ScriptOutputAnalyzer.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/husarz/bot/scrapper/VillageDataBuffer.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/VillageDataBuffer.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/husarz/bot/scrapper/sql/CommunicatorSql.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/CommunicatorSql.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/husarz/bot/scrapper/sql/data/DataRecordSql.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/data/DataRecordSql.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/husarz/bot/scrapper/sql/data/FarmDataRecordSql.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/data/FarmDataRecordSql.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/husarz/bot/scrapper/sql/data/PlayerDataRecordSql.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/data/PlayerDataRecordSql.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/husarz/bot/scrapper/sql/data/SqlRecordFactory.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/data/SqlRecordFactory.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/husarz/bot/scrapper/sql/data/VillageDataRecordSql.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/data/VillageDataRecordSql.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/husarz/bot/scrapper/sql/generators/InsertSqlGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/generators/InsertSqlGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/husarz/bot/scrapper/sql/generators/SelectSqlGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/generators/SelectSqlGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/husarz/bot/scrapper/sql/generators/SqlGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/generators/SqlGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/husarz/bot/scrapper/sql/generators/UpadteSqlGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/generators/UpadteSqlGenerator.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/browser/BotBrowser.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/browser/BotBrowser.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/ScriptLauncher.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/ScriptLauncher.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/ScriptOutputAnalyzer.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/ScriptOutputAnalyzer.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/VillageDataBuffer.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/VillageDataBuffer.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/CommunicatorSql.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/CommunicatorSql.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/data/DataRecordSql.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/data/DataRecordSql.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/data/FarmDataRecordSql.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/data/FarmDataRecordSql.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/data/PlayerDataRecordSql.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/data/PlayerDataRecordSql.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/data/SqlRecordFactory.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/data/SqlRecordFactory.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/data/VillageDataRecordSql.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/data/VillageDataRecordSql.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/generators/InsertSqlGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/generators/InsertSqlGenerator.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/generators/SelectSqlGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/generators/SelectSqlGenerator.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/generators/SqlGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/generators/SqlGenerator.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/generators/UpadteSqlGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/generators/UpadteSqlGenerator.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -112,7 +111,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="ScriptOutputAnalyzer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/ScriptOutputAnalyzer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/ScriptOutputAnalyzer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="832">
               <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
@@ -122,7 +121,7 @@
         </entry>
       </file>
       <file leaf-file-name="CommunicatorSql.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/CommunicatorSql.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/CommunicatorSql.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
               <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
@@ -140,26 +139,26 @@
               <caret line="74" column="41" lean-forward="false" selection-start-line="74" selection-start-column="41" selection-end-line="74" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4194#4195#0" expanded="true" />
-                <element signature="e#4220#4221#0" expanded="true" />
-                <element signature="e#4294#4295#0" expanded="true" />
-                <element signature="e#4321#4322#0" expanded="true" />
+                <element signature="e#4188#4189#0" expanded="true" />
+                <element signature="e#4214#4215#0" expanded="true" />
+                <element signature="e#4288#4289#0" expanded="true" />
+                <element signature="e#4315#4316#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="PlayerDataRecordSql.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/data/PlayerDataRecordSql.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/data/PlayerDataRecordSql.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="256">
               <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1030#1031#0" expanded="true" />
-                <element signature="e#1062#1063#0" expanded="true" />
-                <element signature="e#1127#1128#0" expanded="true" />
-                <element signature="e#1179#1180#0" expanded="true" />
+                <element signature="e#1029#1030#0" expanded="true" />
+                <element signature="e#1061#1062#0" expanded="true" />
+                <element signature="e#1126#1127#0" expanded="true" />
+                <element signature="e#1178#1179#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -186,7 +185,7 @@
         </entry>
       </file>
       <file leaf-file-name="VillageDataRecordSql.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/data/VillageDataRecordSql.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/data/VillageDataRecordSql.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
               <caret line="23" column="50" lean-forward="false" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
@@ -196,7 +195,7 @@
         </entry>
       </file>
       <file leaf-file-name="SqlRecordFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/data/SqlRecordFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/data/SqlRecordFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
@@ -208,7 +207,7 @@
         </entry>
       </file>
       <file leaf-file-name="ScriptLauncher.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/ScriptLauncher.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/ScriptLauncher.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="64">
               <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="27" />
@@ -218,7 +217,7 @@
         </entry>
       </file>
       <file leaf-file-name="VillageDataBuffer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/VillageDataBuffer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/VillageDataBuffer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="64">
               <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -730,6 +729,61 @@
               <item name="SelectionBot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+              <item name="bot" type="462c0819:PsiDirectoryNode" />
+              <item name="browser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SelectionBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SelectionBot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+              <item name="bot" type="462c0819:PsiDirectoryNode" />
+              <item name="scraper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SelectionBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SelectionBot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+              <item name="bot" type="462c0819:PsiDirectoryNode" />
+              <item name="scraper" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SelectionBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SelectionBot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+              <item name="bot" type="462c0819:PsiDirectoryNode" />
+              <item name="scraper" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SelectionBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SelectionBot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+              <item name="bot" type="462c0819:PsiDirectoryNode" />
+              <item name="scraper" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+              <item name="generators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SelectionBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SelectionBot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1062,7 +1116,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/ScriptOutputAnalyzer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/ScriptOutputAnalyzer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
@@ -1081,9 +1135,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1101,17 +1153,17 @@
           <caret line="54" column="28" lean-forward="false" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4194#4195#0" expanded="true" />
-            <element signature="e#4220#4221#0" expanded="true" />
-            <element signature="e#4294#4295#0" expanded="true" />
-            <element signature="e#4321#4322#0" expanded="true" />
+            <element signature="e#4188#4189#0" expanded="true" />
+            <element signature="e#4214#4215#0" expanded="true" />
+            <element signature="e#4288#4289#0" expanded="true" />
+            <element signature="e#4315#4316#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/husarz/bot/browser/Transitor.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/husarz/bot/scrapper/ScriptWorker.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/ScriptOutputAnalyzer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/ScriptOutputAnalyzer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3296">
           <caret line="208" column="17" lean-forward="true" selection-start-line="208" selection-start-column="17" selection-end-line="208" selection-end-column="17" />
@@ -1123,9 +1175,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1135,10 +1185,10 @@
           <caret line="61" column="31" lean-forward="false" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4194#4195#0" expanded="true" />
-            <element signature="e#4220#4221#0" expanded="true" />
-            <element signature="e#4294#4295#0" expanded="true" />
-            <element signature="e#4321#4322#0" expanded="true" />
+            <element signature="e#4188#4189#0" expanded="true" />
+            <element signature="e#4214#4215#0" expanded="true" />
+            <element signature="e#4288#4289#0" expanded="true" />
+            <element signature="e#4315#4316#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1149,9 +1199,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1161,10 +1209,10 @@
           <caret line="61" column="31" lean-forward="false" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4194#4195#0" expanded="true" />
-            <element signature="e#4220#4221#0" expanded="true" />
-            <element signature="e#4294#4295#0" expanded="true" />
-            <element signature="e#4321#4322#0" expanded="true" />
+            <element signature="e#4188#4189#0" expanded="true" />
+            <element signature="e#4214#4215#0" expanded="true" />
+            <element signature="e#4288#4289#0" expanded="true" />
+            <element signature="e#4315#4316#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1175,9 +1223,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1187,10 +1233,10 @@
           <caret line="61" column="31" lean-forward="false" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4194#4195#0" expanded="true" />
-            <element signature="e#4220#4221#0" expanded="true" />
-            <element signature="e#4294#4295#0" expanded="true" />
-            <element signature="e#4321#4322#0" expanded="true" />
+            <element signature="e#4188#4189#0" expanded="true" />
+            <element signature="e#4214#4215#0" expanded="true" />
+            <element signature="e#4288#4289#0" expanded="true" />
+            <element signature="e#4315#4316#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1201,9 +1247,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1213,10 +1257,10 @@
           <caret line="61" column="31" lean-forward="true" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4194#4195#0" expanded="true" />
-            <element signature="e#4220#4221#0" expanded="true" />
-            <element signature="e#4294#4295#0" expanded="true" />
-            <element signature="e#4321#4322#0" expanded="true" />
+            <element signature="e#4188#4189#0" expanded="true" />
+            <element signature="e#4214#4215#0" expanded="true" />
+            <element signature="e#4288#4289#0" expanded="true" />
+            <element signature="e#4315#4316#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1255,7 +1299,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/husarz/bot/scrapper/ScriptWorker.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/husarz/bot/scrapper/sql/data/FabricDataRecordSql.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/generators/UpadteSqlGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/generators/UpadteSqlGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
@@ -1264,7 +1308,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/husarz/bot/browser/Transitor.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/generators/SqlGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/generators/SqlGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -1272,7 +1316,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/generators/SelectSqlGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/generators/SelectSqlGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
@@ -1282,7 +1326,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/data/DataRecordSql.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/data/DataRecordSql.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
@@ -1290,7 +1334,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/data/FarmDataRecordSql.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/data/FarmDataRecordSql.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-128">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -1298,7 +1342,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/generators/InsertSqlGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/generators/InsertSqlGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
@@ -1315,7 +1359,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SqlGeneratorsTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/data/VillageDataRecordSql.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/data/VillageDataRecordSql.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="23" column="50" lean-forward="false" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
@@ -1323,7 +1367,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/ScriptOutputAnalyzer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/ScriptOutputAnalyzer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="832">
           <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
@@ -1331,7 +1375,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/VillageDataBuffer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/VillageDataBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -1339,7 +1383,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/ScriptLauncher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/ScriptLauncher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="27" />
@@ -1347,21 +1391,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/data/PlayerDataRecordSql.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/data/PlayerDataRecordSql.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1030#1031#0" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
-            <element signature="e#1127#1128#0" expanded="true" />
-            <element signature="e#1179#1180#0" expanded="true" />
+            <element signature="e#1029#1030#0" expanded="true" />
+            <element signature="e#1061#1062#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1178#1179#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/data/SqlRecordFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/data/SqlRecordFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
@@ -1377,15 +1421,15 @@
           <caret line="74" column="41" lean-forward="false" selection-start-line="74" selection-start-column="41" selection-end-line="74" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4194#4195#0" expanded="true" />
-            <element signature="e#4220#4221#0" expanded="true" />
-            <element signature="e#4294#4295#0" expanded="true" />
-            <element signature="e#4321#4322#0" expanded="true" />
+            <element signature="e#4188#4189#0" expanded="true" />
+            <element signature="e#4214#4215#0" expanded="true" />
+            <element signature="e#4288#4289#0" expanded="true" />
+            <element signature="e#4315#4316#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scrapper/sql/CommunicatorSql.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/a517435708/bot/scraper/sql/CommunicatorSql.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />

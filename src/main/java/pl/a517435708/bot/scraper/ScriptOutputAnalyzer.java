@@ -1,8 +1,8 @@
-package pl.a517435708.bot.scrapper;
+package pl.a517435708.bot.scraper;
 
 import netscape.javascript.JSObject;
-import pl.a517435708.bot.scrapper.sql.data.SqlRecordFactory;
-import pl.a517435708.bot.scrapper.sql.data.DataRecordSql;
+import pl.a517435708.bot.scraper.sql.data.SqlRecordFactory;
+import pl.a517435708.bot.scraper.sql.data.DataRecordSql;
 
 import java.util.ArrayList;
 import java.util.regex.Matcher;

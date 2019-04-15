@@ -1,9 +1,9 @@
-package pl.a517435708.bot.scrapper.sql;
+package pl.a517435708.bot.scraper.sql;
 
 import com.mysql.cj.jdbc.MysqlDataSource;
-import pl.a517435708.bot.scrapper.sql.generators.SqlGenerator;
-import pl.a517435708.bot.scrapper.sql.data.DataRecordSql;
-import pl.a517435708.bot.scrapper.sql.generators.SelectSqlGenerator;
+import pl.a517435708.bot.scraper.sql.generators.SqlGenerator;
+import pl.a517435708.bot.scraper.sql.data.DataRecordSql;
+import pl.a517435708.bot.scraper.sql.generators.SelectSqlGenerator;
 
 import java.sql.Connection;
 import java.sql.ResultSet;

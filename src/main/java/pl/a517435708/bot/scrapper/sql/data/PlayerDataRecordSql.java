@@ -1,4 +1,4 @@
-package pl.husarz.bot.scrapper.sql.data;
+package pl.a517435708.bot.scrapper.sql.data;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

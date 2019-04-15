@@ -1,4 +1,4 @@
-package pl.husarz.bot.browser;
+package pl.a517435708.bot.browser;
 
 
 import javafx.event.ActionEvent;
@@ -17,11 +17,14 @@ import javafx.scene.web.WebView;
 
 import javafx.scene.layout.Region;
 
+import pl.a517435708.bot.scrapper.ScriptLauncher;
+import pl.a517435708.bot.scrapper.ScriptOutputAnalyzer;
+import pl.a517435708.bot.scrapper.sql.CommunicatorSql;
+import pl.a517435708.bot.scrapper.sql.data.DataRecordSql;
+import pl.a517435708.bot.scrapper.sql.generators.InsertSqlGenerator;
+import pl.a517435708.bot.scrapper.sql.generators.UpadteSqlGenerator;
 import pl.husarz.bot.scrapper.sql.*;
 import pl.husarz.bot.scrapper.*;
-import pl.husarz.bot.scrapper.sql.data.DataRecordSql;
-import pl.husarz.bot.scrapper.sql.generators.InsertSqlGenerator;
-import pl.husarz.bot.scrapper.sql.generators.UpadteSqlGenerator;
 
 import java.util.ArrayList;
 

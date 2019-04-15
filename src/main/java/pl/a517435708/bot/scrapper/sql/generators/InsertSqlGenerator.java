@@ -1,6 +1,6 @@
-package pl.husarz.bot.scrapper.sql.generators;
+package pl.a517435708.bot.scrapper.sql.generators;
 
-import pl.husarz.bot.scrapper.sql.data.DataRecordSql;
+import pl.a517435708.bot.scrapper.sql.data.DataRecordSql;
 
 import java.util.Map;
 

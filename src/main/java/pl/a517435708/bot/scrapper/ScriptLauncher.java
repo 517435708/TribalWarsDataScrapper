@@ -1,4 +1,4 @@
-package pl.husarz.bot.scrapper;
+package pl.a517435708.bot.scrapper;
 
 import javafx.application.Platform;
 import javafx.scene.web.WebEngine;

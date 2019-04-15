@@ -1,12 +1,11 @@
-package pl.husarz.bot;
+package pl.a517435708.bot;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.paint.Color;
-import javafx.scene.web.WebEngine;
 import javafx.stage.Stage;
 
-import pl.husarz.bot.browser.BotBrowser;
+import pl.a517435708.bot.browser.BotBrowser;
 import pl.husarz.bot.scrapper.*;
 import pl.husarz.bot.scrapper.sql.*;
 

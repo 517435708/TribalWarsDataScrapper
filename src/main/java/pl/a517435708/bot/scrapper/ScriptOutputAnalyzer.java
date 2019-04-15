@@ -1,14 +1,10 @@
-package pl.husarz.bot.scrapper;
+package pl.a517435708.bot.scrapper;
 
 import netscape.javascript.JSObject;
-import pl.husarz.bot.scrapper.sql.data.DataRecordSql;
-import pl.husarz.bot.scrapper.sql.data.SqlRecordFactory;
-import pl.husarz.bot.scrapper.sql.data.VillageDataRecordSql;
+import pl.a517435708.bot.scrapper.sql.data.SqlRecordFactory;
+import pl.a517435708.bot.scrapper.sql.data.DataRecordSql;
 
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.Date;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
